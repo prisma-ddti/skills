@@ -1,6 +1,6 @@
 # DDTI Agent Skills
 
-Kumpulan _[Agent Skills](https://www.agensi.io/learn/agent-skills-open-standard)_ yang dikembangkan oleh **Bidang Data, Digitalisasi, dan Teknologi Informasi Universitas Islam Malang** untuk mendukung pekerjaan pengembangan perangkat lunak di lingkungan Perpustakaan.
+Kumpulan _[Agent Skills](https://agentskills.io/home)_ yang dikembangkan oleh **Bidang Data, Digitalisasi, dan Teknologi Informasi Universitas Islam Malang** untuk mendukung pekerjaan pengembangan perangkat lunak di lingkungan Perpustakaan.
 
 _Agent Skills_ adalah modul pengetahuan dan instruksi yang dimuat oleh AI Agents ketika menghadapi pekerjaan yang relevan, sehingga jawabannya mengikuti praktik terbaik.
 
